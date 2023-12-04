@@ -1,0 +1,10 @@
+body{background-color: purple;}
+h1{font-family: Times New Roman; font-size:  40px; color: gold; text-align: center;}
+h2{font-family: Times New Roman; font-size:  40px; color: gold; text-align: center;}
+p{font-family; Old English; font-size: 14px; color: ghostwhite; text-align: center;}
+img{border-width: 3px; border-style: double; border-color: rebeccapurple; display: block;margin-left: auto; margin-right: auto; width: :60% background;}
+a{text-decoration: none;}
+a:hover: {color:  lavender;}
+ul {list-style-type: none; background-color: darkgoldenrod; texgt-align: center; overflow: hidden;} 
+li{float: center;}
+li a{display:  block; color:  white; padding: 14px 16px; text-align: center; text-decoration: none;}
